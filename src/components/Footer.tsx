@@ -21,8 +21,7 @@ export default function Footer() {
         <p className="mt-3 sm:mt-4 text-xs sm:text-sm text-gray-600 italic px-4">
           Forever cherishing these beautiful moments with you
         </p>
-        <p className="mt-3 sm:mt-4 text-xs sm:text-sm text-gray-600 italic px-4">
-          © 2025 Mansi Mam. All rights reserved.
+       
         </p>
       </div>
     </footer>
