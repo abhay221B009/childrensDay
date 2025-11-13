@@ -22,7 +22,7 @@ export default function Footer() {
           Forever cherishing these beautiful moments with you
         </p>
         <p className="mt-3 sm:mt-4 text-xs sm:text-sm text-gray-600 italic px-4">
-          © 2024 Mansi Mam. All rights reserved.
+          © 2025 Mansi Mam. All rights reserved.
         </p>
       </div>
     </footer>
